@@ -1,0 +1,3 @@
+[submodule "projects/calculus-visualizer"]
+	path = projects/calculus-visualizer
+	url = https://github.com/cjsoltermann/calculus-visualizer.git
