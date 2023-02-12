@@ -1,3 +1,6 @@
 [submodule "projects/calculus-visualizer"]
 	path = projects/calculus-visualizer
 	url = https://github.com/cjsoltermann/calculus-visualizer.git
+[submodule "projects/mnist"]
+	path = projects/mnist
+	url = https://github.com/cjsoltermann/mnistTest.git
