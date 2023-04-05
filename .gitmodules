@@ -4,3 +4,6 @@
 [submodule "projects/mnist"]
 	path = projects/mnist
 	url = https://github.com/cjsoltermann/mnistTest.git
+[submodule "projects/FlowerDemo"]
+	path = projects/FlowerDemo
+	url = https://github.com/cjsoltermann/FlowerDemo.git
